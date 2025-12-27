@@ -8,7 +8,7 @@ Lightning-fast image viewer for Windows and Mac with an invisible UI that fades 
 
 ## 📥 Download
 
-**Latest Release:** [v1.0.0](https://github.com/gnuchev/ultrafast-image-viewer/releases/latest)
+**Latest Release:** [v1.0.1](https://github.com/gnuchev/ultrafast-image-viewer/releases/latest)
 
 ### Windows
 - **Windows 10/11 (x64)**: [Download Installer](https://github.com/gnuchev/ultrafast-image-viewer/releases/download/v1.0.0/Ultrafast-Image-Viewer-Setup-1.0.0.exe)
