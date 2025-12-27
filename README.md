@@ -34,15 +34,11 @@ Lightning-fast image viewer for Windows and Mac with an invisible UI that fades 
   - Format conversion: JPEG, PNG, WebP
 - **Cross-Platform** - Windows 10/11 and macOS 10.13+
 
-### 🎁 30-Day Pro Trial Included
+### 🎁 All features Free
 - **Thumbnail Strip** - Visual browser for quick navigation
 - **EXIF Info Panel** - View image metadata and properties
 - **Transformations** - Rotate, flip, and save changes permanently
 - **All Future Pro Features**
-
-### 💎 After Trial: Two Ways to Keep Pro
-1. **Free Path**: Share with friends (5-20 referrals unlock features)
-2. **Purchase**: $29.99 Personal / $59.99 Commercial (one-time, lifetime)
 
 ---
 
